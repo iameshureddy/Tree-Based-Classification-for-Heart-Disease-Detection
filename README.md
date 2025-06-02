@@ -41,6 +41,9 @@ We use the **Heart Disease Dataset** to predict whether a patient has heart dise
 | Random Forest    | ~0.87         | ~0.84        |
 
 ✅ Random Forest outperformed the single decision tree due to better generalization via ensemble learning.
+![Screenshot 2025-06-02 113850](https://github.com/user-attachments/assets/f9833704-20b3-433d-b441-1f093fec6bc5)
+![Screenshot 2025-06-02 113916](https://github.com/user-attachments/assets/5ba2f456-1aff-43fe-aeb0-dcc75309379d)
+
 
 ---
 
